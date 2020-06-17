@@ -1,0 +1,16 @@
+{
+  "posts": [
+    { "id": 1, "title": "India" },
+    { "id": 2, "title": "Srilanka" },
+    { "id": 3, "title": "Japan" }
+  ],
+  "comments": [
+    { "id": 1, "body": "India is a country in South Asiat", "postId": 1 },
+    { "id": 2, "body": "Srilanka is a country in South Asia", "postId": 1 },
+    { "id": 3, "body": "Japan is an island country in East Asia located in the northwest Pacific Ocean", "postId": 1 }
+    
+  ],
+  "profile": {
+    "name": "bhargava"
+  }
+}
